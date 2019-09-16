@@ -1,5 +1,4 @@
-Java-WebDev-EventFinder
-
+EventFinder
 •	Implemented personalized event recommendation based on search history and favorite records
 •	Developed an interactive web page for clients to search events near their locations (HTML/CSS /JavaScript/AJAX)
 •	Used Java servlets with RESTful APIs to handle HTTP requests and responses
